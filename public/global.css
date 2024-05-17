@@ -1,0 +1,73 @@
+:root {
+	--dark: #1C0118;
+	--blue: #A6D9F7;
+	--red: #F40000;
+	--light: #FFFFFF;
+	--medieval-yellow: #7c0087; /* Antique Gold / 古董金 */
+	--sand: #2d2303; /* Sand / 沙色 */
+	--gold-fusion: #E1C16E; /* Gold Fusion / 黄金融合色 */
+	--tan: #D2B48C; /* Tan / 棕褐色 */
+	--areaColor: #d6ec11;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+	font-family: 'MedievalSharp', sans-serif;
+	font-size: 12px;
+	/*background-color: var(--blue);*/
+	background-image: none;
+	background-size: auto; /* 让背景图片自适应并覆盖整个页面 */
+	background-repeat: auto; /* 防止背景图片重复显示 */
+	background-color: transparent;
+	position: relative;
+}
+
+
+@media (min-width: 600px ) {
+	html, body {
+		font-size: 15px;
+	}
+}
+
+@media (min-width: 980px ) {
+	html, body {
+		font-size: 17px;
+	}
+}
+
+@media (min-width: 1260px ) {
+	html, body {
+		font-size: 18px;
+	}
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+	border-bottom: 1px solid var(--red);
+}
+.background-container {
+    position: absolute; /* Make the container absolute */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('Faerun-Map-Redone-Roll-20-Res-Hexes.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.4; /* Adjust opacity here for desired transparency (0 - 1) */
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0; /* Ensure it's above the background image */
+    background-color: transparent; /* Make sure canvas background is transparent */
+}
