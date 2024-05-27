@@ -1,11 +1,11 @@
 .wrapper.svelte-12j1qee.svelte-12j1qee{width:95%;height:100%;margin:0 auto}.header.svelte-12j1qee.svelte-12j1qee{width:100%;margin:1.5rem 0;color:var(--medieval-yellow)}.header.svelte-12j1qee h1.svelte-12j1qee{font-family:'MedievalSharp', serif;font-weight:normal;font-size:calc(6rem + 7px);text-align:center}#visual.svelte-12j1qee.svelte-12j1qee{position:relative;width:100%;height:100vmin}
 .info>div.svelte-ywyreb{width:47%;height:100%;margin-bottom:0}@media(max-width: 600px){.info>div.svelte-ywyreb{width:100%;margin-bottom:1.5rem}}.wrapper.svelte-ywyreb{width:100%;height:100%}
-canvas.svelte-qja14o{position:absolute}
 svg.svelte-n394mc{position:absolute}
 svg.svelte-dgqppg{position:absolute}
-circle.increased{opacity:1;fill:rgb(70, 130, 180)}circle.decreased{opacity:1;fill:rgb(70, 130, 180)}
-text.svelte-7kdziz{fill:#103074;font-size:1.5rem;text-anchor:middle}
+canvas.svelte-qja14o{position:absolute}
 @font-face{font-family:'digital-7';src:url('/digital-7.ttf') format('truetype');font-weight:normal;font-style:normal}@font-face{font-family:'advanced_dot_digital-7';src:url('/advanced_dot_digital-7.ttf') format('truetype');font-weight:normal;font-style:normal}text.title.svelte-10mb060{font-size:calc(1.2rem + 0.5vmin);text-anchor:middle;fill:#103074}text.titlesmall.svelte-10mb060{font-size:calc(0.8rem + 0.5vmin);text-anchor:middle;fill:#103074}text.price-label.svelte-10mb060{font-size:1rem;text-anchor:middle;fill:#103074}text.y-label.svelte-10mb060{font-size:1rem;fill:#103074}text.x-label.svelte-10mb060{font-size:1rem;fill:#103074}text.title2.svelte-10mb060{font-size:calc(1.2rem + 0.5vmin);text-anchor:middle;fill:rgb(0, 44, 97)}text.titlesmall2.svelte-10mb060{font-size:calc(0.8rem + 0.5vmin);text-anchor:middle;fill:#103074}text.price-label2.svelte-10mb060{font-size:1.5rem;text-anchor:middle;fill:rgb(0, 44, 97)}text.y-label2.svelte-10mb060{font-size:1.5rem;fill:rgb(0, 44, 97)}line.svelte-10mb060{stroke:rgb(0, 44, 97);stroke-width:4}text.x-label2.svelte-10mb060{font-size:1.5rem;fill:rgb(0, 44, 97)}text.detailsLarge.svelte-10mb060{font-family:'digital-7',monospace;font-size:2rem;fill:#051842}text.details.svelte-10mb060{font-family:'digital-7';font-size:1.5rem;fill:#103074}
+text.svelte-7kdziz{fill:#103074;font-size:1.5rem;text-anchor:middle}
 path.Area-arc.svelte-1ej8cbv{stroke-dasharray:1, 1;fill:var(--areaColor)}path.Area-label-arc.svelte-1ej8cbv{fill:none}textPath.Area-label.svelte-1ej8cbv{fill:#063102;text-anchor:middle;font-family:MedievalSharp, sans-serif;font-size:1.8rem}
+circle.increased{opacity:1;fill:rgb(70, 130, 180)}circle.decreased{opacity:1;fill:rgb(70, 130, 180)}
 
 /*# sourceMappingURL=bundle.css.map */
