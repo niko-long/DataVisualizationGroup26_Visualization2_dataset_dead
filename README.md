@@ -1,2 +1,3 @@
 # DataVisualizationGroup26_Visualization2
 DataVisualizationGroup26_Visualization2
+![Visualization State1](VisualizationDetailedStatus.png)
